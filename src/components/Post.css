@@ -1,0 +1,15 @@
+.post-body {
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  color: grey;
+}
+
+.post-title {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
